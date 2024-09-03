@@ -20,7 +20,7 @@ Antes de iniciar, certifique-se de ter o Python instalado em sua máquina. Este 
 Clone o repositório para a sua máquina local usando:
 
 ```bash
-git clone https://github.com/markesjp/jogo-da-velha-distribuido.git
+git clone https://github.com/markesjp/TicTacToeDistribuido.git
 cd jogo-da-velha-distribuido
 ```
 

@@ -21,7 +21,7 @@ Clone o repositório para a sua máquina local usando:
 
 ```bash
 git clone https://github.com/markesjp/TicTacToeDistribuido.git
-cd jogo-da-velha-distribuido
+cd TicTacToeDistribuido
 ```
 
 ### Servidor
